@@ -1,0 +1,30 @@
+C:\Users\aless\RiderProjects\OOPSample\OOPSample\bin\Debug\net8.0\OOPSample.exe
+C:\Users\aless\RiderProjects\OOPSample\OOPSample\bin\Debug\net8.0\OOPSample.deps.json
+C:\Users\aless\RiderProjects\OOPSample\OOPSample\bin\Debug\net8.0\OOPSample.runtimeconfig.json
+C:\Users\aless\RiderProjects\OOPSample\OOPSample\bin\Debug\net8.0\OOPSample.dll
+C:\Users\aless\RiderProjects\OOPSample\OOPSample\bin\Debug\net8.0\OOPSample.pdb
+C:\Users\aless\RiderProjects\OOPSample\OOPSample\obj\Debug\net8.0\OOPSample.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aless\RiderProjects\OOPSample\OOPSample\obj\Debug\net8.0\OOPSample.AssemblyInfoInputs.cache
+C:\Users\aless\RiderProjects\OOPSample\OOPSample\obj\Debug\net8.0\OOPSample.AssemblyInfo.cs
+C:\Users\aless\RiderProjects\OOPSample\OOPSample\obj\Debug\net8.0\OOPSample.csproj.CoreCompileInputs.cache
+C:\Users\aless\RiderProjects\OOPSample\OOPSample\obj\Debug\net8.0\OOPSample.sourcelink.json
+C:\Users\aless\RiderProjects\OOPSample\OOPSample\obj\Debug\net8.0\OOPSample.dll
+C:\Users\aless\RiderProjects\OOPSample\OOPSample\obj\Debug\net8.0\refint\OOPSample.dll
+C:\Users\aless\RiderProjects\OOPSample\OOPSample\obj\Debug\net8.0\OOPSample.pdb
+C:\Users\aless\RiderProjects\OOPSample\OOPSample\obj\Debug\net8.0\OOPSample.genruntimeconfig.cache
+C:\Users\aless\RiderProjects\OOPSample\OOPSample\obj\Debug\net8.0\ref\OOPSample.dll
+C:\Users\aless\RiderProjects\SW51-Apps Web\OOPSample\OOPSample\bin\Debug\net8.0\OOPSample.exe
+C:\Users\aless\RiderProjects\SW51-Apps Web\OOPSample\OOPSample\bin\Debug\net8.0\OOPSample.deps.json
+C:\Users\aless\RiderProjects\SW51-Apps Web\OOPSample\OOPSample\bin\Debug\net8.0\OOPSample.runtimeconfig.json
+C:\Users\aless\RiderProjects\SW51-Apps Web\OOPSample\OOPSample\bin\Debug\net8.0\OOPSample.dll
+C:\Users\aless\RiderProjects\SW51-Apps Web\OOPSample\OOPSample\bin\Debug\net8.0\OOPSample.pdb
+C:\Users\aless\RiderProjects\SW51-Apps Web\OOPSample\OOPSample\obj\Debug\net8.0\OOPSample.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aless\RiderProjects\SW51-Apps Web\OOPSample\OOPSample\obj\Debug\net8.0\OOPSample.AssemblyInfoInputs.cache
+C:\Users\aless\RiderProjects\SW51-Apps Web\OOPSample\OOPSample\obj\Debug\net8.0\OOPSample.AssemblyInfo.cs
+C:\Users\aless\RiderProjects\SW51-Apps Web\OOPSample\OOPSample\obj\Debug\net8.0\OOPSample.csproj.CoreCompileInputs.cache
+C:\Users\aless\RiderProjects\SW51-Apps Web\OOPSample\OOPSample\obj\Debug\net8.0\OOPSample.sourcelink.json
+C:\Users\aless\RiderProjects\SW51-Apps Web\OOPSample\OOPSample\obj\Debug\net8.0\OOPSample.dll
+C:\Users\aless\RiderProjects\SW51-Apps Web\OOPSample\OOPSample\obj\Debug\net8.0\refint\OOPSample.dll
+C:\Users\aless\RiderProjects\SW51-Apps Web\OOPSample\OOPSample\obj\Debug\net8.0\OOPSample.pdb
+C:\Users\aless\RiderProjects\SW51-Apps Web\OOPSample\OOPSample\obj\Debug\net8.0\OOPSample.genruntimeconfig.cache
+C:\Users\aless\RiderProjects\SW51-Apps Web\OOPSample\OOPSample\obj\Debug\net8.0\ref\OOPSample.dll

@@ -1,20 +1,24 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Alessandro\\upc\\semana01\\OOPsample\\OOPSample\\OOPSample.csproj": {}
+    "C:\\Users\\aless\\RiderProjects\\SW51-Apps Web\\OOPSample\\OOPSample\\OOPSample.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Alessandro\\upc\\semana01\\OOPsample\\OOPSample\\OOPSample.csproj": {
+    "C:\\Users\\aless\\RiderProjects\\SW51-Apps Web\\OOPSample\\OOPSample\\OOPSample.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Alessandro\\upc\\semana01\\OOPsample\\OOPSample\\OOPSample.csproj",
+        "projectUniqueName": "C:\\Users\\aless\\RiderProjects\\SW51-Apps Web\\OOPSample\\OOPSample\\OOPSample.csproj",
         "projectName": "OOPSample",
-        "projectPath": "C:\\Users\\Alessandro\\upc\\semana01\\OOPsample\\OOPSample\\OOPSample.csproj",
-        "packagesPath": "C:\\Users\\Alessandro\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Alessandro\\upc\\semana01\\OOPsample\\OOPSample\\obj\\",
+        "projectPath": "C:\\Users\\aless\\RiderProjects\\SW51-Apps Web\\OOPSample\\OOPSample\\OOPSample.csproj",
+        "packagesPath": "C:\\Users\\aless\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\aless\\RiderProjects\\SW51-Apps Web\\OOPSample\\OOPSample\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "C:\\Users\\Alessandro\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\aless\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -22,7 +26,6 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
