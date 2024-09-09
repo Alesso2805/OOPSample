@@ -1,9 +1,17 @@
 ﻿namespace OOPSample.Console.Sales.Domain.Model.Aggregates;
+
 public class SalesOrderItem(int salesOrderId, int productId, int
-    quantity)
+    quantity, double unitPrice)
 {
-    public int Id { get; set; } = 0;
-    public int SalesOrderId { get; set; } = salesOrderId;
-    public int ProductId { get; set; } = productId;
-    public int Quantity { get; set; } = quantity;
+    public Guid Id { get; } = GenerateOrderItemId();
+    public int SalesOrderId { get; } = salesOrderId;
+
+    public int ProductId { get; } = productId;
+    public int Quantity { get; } = quantity;
+    public double UnitPrice { get; } = unitPrice;
+    private static Guid GenerateOrderItemId()
+    {
+        return Guid.NewGuid();
+    }
+    public double CalculateItemPrice() => Quantity * UnitPrice;
 }

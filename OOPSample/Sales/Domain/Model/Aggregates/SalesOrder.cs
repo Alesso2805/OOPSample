@@ -1,10 +1,16 @@
 ﻿namespace OOPSample.Console.Sales.Domain.Model.Aggregates;
-public class SalesOrder(int id)
+public class SalesOrder(int id, int customerId)
 {
-    private List<SalesOrderItem> _items = [];
+    private readonly List<SalesOrderItem> _items = [];
+    public int CustomerId { get; } = customerId;
     private int Id { get; } = id;
-    public void AddItem(int productId, int quantity)
+    public void AddItem(int productId, int quantity, double unitPrice)
     {
-        _items.Add(new SalesOrderItem(Id, productId, quantity));
+        _items.Add(new SalesOrderItem(Id, productId, quantity,
+            unitPrice));
+    }
+    public double CalculateTotalPrice()
+    {
+        return _items.Sum(x => x.CalculateItemPrice());
     }
 }
