@@ -1,4 +1,4 @@
-﻿namespace OOPSample.Console.Sales.Domain.Model.Entities;
+﻿namespace OOPSample.Console.Sales.Domain.Model.Aggregates;
 public class SalesOrderItem(int salesOrderId, int productId, int
     quantity)
 {
