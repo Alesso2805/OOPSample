@@ -1,5 +1,5 @@
-﻿namespace OOPSample.Console.Sales.Domain.Model.Aggregates;
-
+﻿using OOPSample.Console.Sales.Domain.Model.Entities;
+namespace OOPSample.Sales.Domain.Model.Aggregates;
 public class SalesOrder(int id)
 {
     private List<SalesOrderItem> _items = [];

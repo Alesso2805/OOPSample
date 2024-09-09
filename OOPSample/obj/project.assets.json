@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Alessandro\\upc\\semana01\\OOPsample\\OOPSample.Console\\OOPSample.Console.csproj",
-      "projectName": "OOPSample.Console",
-      "projectPath": "C:\\Users\\Alessandro\\upc\\semana01\\OOPsample\\OOPSample.Console\\OOPSample.Console.csproj",
+      "projectUniqueName": "C:\\Users\\Alessandro\\upc\\semana01\\OOPsample\\OOPSample\\OOPSample.csproj",
+      "projectName": "OOPSample",
+      "projectPath": "C:\\Users\\Alessandro\\upc\\semana01\\OOPsample\\OOPSample\\OOPSample.csproj",
       "packagesPath": "C:\\Users\\Alessandro\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Alessandro\\upc\\semana01\\OOPsample\\OOPSample.Console\\obj\\",
+      "outputPath": "C:\\Users\\Alessandro\\upc\\semana01\\OOPsample\\OOPSample\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Alessandro\\AppData\\Roaming\\NuGet\\NuGet.Config",
